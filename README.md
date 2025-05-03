@@ -45,7 +45,7 @@ If you'd like to install the unpacked version of this extension, follow these st
 4. Click "Load unpacked" and select the folder containing the extension files.
 5. The extension should now be installed and ready to use.
 
-For more detailed instructions, refer to [this guide](https://developer.chrome.com/docs/extensions/mv3/getstarted/).
+For more detailed instructions, refer to [this guide](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world?#load-unpacked).
 
 </details>
 
