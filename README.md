@@ -1,4 +1,8 @@
 # Mattermost Link Transformer 🔗 Chrome Extension ✨
+
+![Version](https://img.shields.io/badge/version-1.1-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Effortlessly transform Mattermost web links to open directly in the Mattermost desktop app.
 
 ---
