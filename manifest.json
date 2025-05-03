@@ -3,7 +3,7 @@
     "name": "Mattermost Link Transformer",
     "version": "1.0",
     "description": "Transforms links to open Mattermost app directly.",
-    "permissions": ["webNavigation"],
+    "permissions": ["webNavigation", "storage"],
     "background": {
       "service_worker": "background.js"
     },
