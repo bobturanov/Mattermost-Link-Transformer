@@ -25,17 +25,13 @@ This extension operates entirely on your local machine. It does not transmit, st
 
 ## Installation 🛠️
 
-1. Download the extension from the [Chrome Web Store](#) *(link will be added once published)*.
+1. Download the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/cidiliddijgfpkekmaianpoamibomjic?utm_source=github).
 2. Click "Add to Chrome" and confirm the installation.
 3. Enable the extension and start transforming links instantly!
 
 ---
 
-## Status 📋
-
-*The app is currently under review in the Chrome Web Store.*
-<details>
-<summary>Installing the Unpacked Extension</summary>
+## Install the unpacked version 📋
 
 If you'd like to install the unpacked version of this extension, follow these steps:
 
